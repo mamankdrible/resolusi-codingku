@@ -1,7 +1,7 @@
 AKU INGIN BELAJAR
 1) javascript
 -framework
-^vue
+^angular
 ^react
 2) php
 -framework
