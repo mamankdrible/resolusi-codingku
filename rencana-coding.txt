@@ -2,3 +2,4 @@ AKU INGIN BELAJAR
 1) javascript
 2) php
 3) sql
+4) sertif fullstack
