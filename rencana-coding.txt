@@ -4,4 +4,8 @@ AKU INGIN BELAJAR
 ^angular
 ^react
 2) php
+-framework
+^laravel
 3) sql
+4) sertif fullstack
+5) python
