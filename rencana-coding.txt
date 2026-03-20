@@ -1,5 +1,11 @@
 AKU INGIN BELAJAR
 1) javascript
+-framework
+^vue
+^react
 2) php
+-framework
+^laravel
 3) sql
 4) sertif fullstack
+5) python
