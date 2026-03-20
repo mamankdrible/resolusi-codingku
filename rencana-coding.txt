@@ -1,5 +1,7 @@
 AKU INGIN BELAJAR
 1) javascript
+-framework
+^angular
+^react
 2) php
 3) sql
-4) sertif fullstack
